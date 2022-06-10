@@ -1,3 +1,5 @@
+// CREAMOS UN OBJETO MEDIANTE "NOTACION LITERAL"
+
 let user = {
     name: 'Federico',
     lastname: 'Lopez Pondal',
